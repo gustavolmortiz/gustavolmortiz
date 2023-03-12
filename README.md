@@ -1,4 +1,4 @@
-### Olá! Eu sou o David Luiz
+### Olá! Eu sou o Gustavo Ortiz
 
 
 - 🔭 Apaixonado por tecnologia
