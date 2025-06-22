@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Analise e Desenvolvimento de  Sistemas 2/4
+- 🌱 Formado em Analise e Desenvolvimento de  Sistemas
 <div align="center">
   <a href="https://github.com/gustavolmortiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolmortiz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
